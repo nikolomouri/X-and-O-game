@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_player">First Player</string>
+    <string name="second_player">Second Player</string>
+    <string name="space_">-</string>
+    <string name="_0">0</string>
+    <string name="reset">reset</string>
+    <string name="new_game">new game</string>
+</resources>
